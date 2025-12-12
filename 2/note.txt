@@ -1,0 +1,28 @@
+# Node js Basics
+
+Programming Language X
+technology X
+framwork X
+library X
+
+Node js is (JavaScript Runtime Environment)
+
+Ryan Dahl -> Chrome V8 engine (c++ language)
+
+
+# Introduction to Node.js
+
+npm init -> package.json -> detailes of the project
+
+
+# Installing Node.js and npm
+
+
+# working with modules
+
+
+# file system operations
+
+
+# understanding HTTP module
+

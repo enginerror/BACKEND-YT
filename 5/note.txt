@@ -1,0 +1,13 @@
+Form handeling and working with the forms
+
+handel backend process of forms and making sure the data comeing form any frontend library, framwork, templating engines
+
+# session
+# cookie
+
+hum log kuch bhi data frontend par browser par rakh sakte hai and jab bhi app kuch bhi request backend par karoge wo frontend par saved data automatically backend par chala jaayega
+
+
+# blob (not currect tearm)
+
+tume to bheja tha plain text par server ko mila blob which is not directly readable, ab is cheej ko handel karna padega ki hum us blob ko waapes se readable kar sake

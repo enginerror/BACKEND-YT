@@ -1,0 +1,30 @@
+1. Initialize a project with a npm 
+2. Express install
+3. setting up parsers for from
+4. setting up ejs for ejs pages
+5. setting up public static files
+6. Dynamic routing
+    - dynamic routing
+    - how to get data coming from frontend at backend route
+
+- npm i express
+- npm init -y
+- npm i ejs
+- npx nodemon script.js
+
+# install ejs form npm
+# setup ejs as a for view engine
+
+
+Dynamic routing -
+
+hum log kai baar kuch routes dekhte hai unmein sirf ek hi hissa change hota hai 
+
+/author/harsh
+/author/profile
+
+-> sabse pahle browser par jaoo
+-> url likiye apna jo aapko chahiye and enter dabaaiye
+-> ab us url route ko create kariye
+-> res bhejiye kuch bhi
+-> ab usi url ko agr dynamic bananna hai to realise karo konsa part dynamic hain aur us part ke aage route mein : laga do

@@ -1,0 +1,38 @@
+TOPICS COVER -
+
+1. Data Storage:
+    aisa kuch jaha par hum saare users ki info store kar sakte hai
+
+
+2. types of DBS - SQL , NoSQL (not only SQL)
+
+SQL - data ko ek roop mein rakhna - tables way data
+NoSQL(concept) - objects way data (mongoDB)
+
+NoSQL is concept and mongoDB is implement
+
+{
+  name: "Khan"
+  age: 25
+}
+
+
+3. what and why
+
+for oldest data store 
+
+
+4. terminologies - collection, documents, keys, models
+
+Aplication server , Database server
+
+Aplication server - routes handel and req except kar ta hain
+
+Database -> Collection -> Document
+
+
+CODE                   DATABASE
+-----------------------------------------------------------------
+mongoose.connect ->    database create
+model create     ->    collection 
+CREATE           ->    document

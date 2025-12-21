@@ -1,0 +1,9 @@
+TOPIC COVER - 
+
+1. mongoDB installation
+2. mongoDB connection
+3. schema
+4. model
+5. CRUD
+
+mongoos work - conversesion b/w node server and mongoDB server 
